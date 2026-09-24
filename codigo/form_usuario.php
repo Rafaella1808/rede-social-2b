@@ -14,10 +14,10 @@
         <input type="text" name="nome"> <br>
         
         Email: <br>
-        <input type="varchar" name="email"> <br>
+        <input type="text" name="email"> <br>
 
         Senha: <br>
-        <input type="passaword" name="senha"> <br>
+        <input type="password" name="senha"> <br>
 
         Foto: <br>
         <input type="text" name="foto"> <br>

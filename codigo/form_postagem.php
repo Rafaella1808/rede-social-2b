@@ -28,6 +28,7 @@
                 echo "<option value='$idusuario'>$nome</option>";
             }
             ?>
+        <br>
         
         <input type="submit" value="Postar">
     </form>
