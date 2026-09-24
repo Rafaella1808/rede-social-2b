@@ -6,7 +6,7 @@
     <title>Cadastro do Usuário</title>
 </head>
 <body>
-     <form action="salvar_usuario.php" method="GET">
+     <form action="salvar_usuario.php" method="POST">
         Username: <br>
         <input type="text" name="user"> <br>
         
@@ -24,6 +24,6 @@
         
         <input type="submit" value="Cadastrar">
     </form>
-    
+
 </body>
 </html>

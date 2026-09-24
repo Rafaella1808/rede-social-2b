@@ -6,7 +6,7 @@
     <title>Postagem</title>
 </head>
 <body>
-    <form action="salvar_postagem.php" method="GET">
+    <form action="salvar_postagem.php" method="POST">
         Texto: <br>
         <input type="text" name="texto"> <br>
         
