@@ -1,5 +1,5 @@
 <?php
-
+    
     $email = $_POST['email'];
     $senha = $_POST['senha'];
 
@@ -18,6 +18,7 @@
         $nome = $linha['nome'];
         $email = $linha['email'];
         $foto = $linha['foto'];
+
         
         session_start();
         $_SESSION['logado'] = 1;

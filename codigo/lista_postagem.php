@@ -44,5 +44,8 @@
             echo "<td>$idusuario</td>";
             echo "<td><a href='excluir_postagem.php?id=$idpostagem'>excluir</a></td>";
             echo "</tr>";
-</body>
+        }
+        ?>
+ </body>
+
 </html>

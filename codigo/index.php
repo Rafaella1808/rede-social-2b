@@ -9,7 +9,8 @@
     <h1> Menu </h1>
 <a href="form_postagem.php">Enviar Postagem</a><br>
 <a href="form_usuario.php">Cadastrar Usuario</a><br>
-
+<a href="verificar_login.php">Fazer Login</a><br>
+<a href="lista_postagem.php">Lista de Postagens</a><br>
     <?php
         if (isset($_POST['erro'])) {
             $email = '';
