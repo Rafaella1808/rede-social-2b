@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <iframe id="menu-frame" src="menu.html"></iframe>
-        <iframe id="conteudo-frame" src="listar_postagem.php" name="conteudo-frame"></iframe>
+    tela inicial
 
 </body>
 </html>

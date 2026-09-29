@@ -1,8 +1,7 @@
 <?php
 
+$idusuario = $_SESSION['idusuario'];
 $texto = $_POST['texto'];
-$datahora = $_POST['datahora'];
-$idusuario = $_POST['idusuario'];
 
 
 $sql = "INSERT INTO postagem (texto, data_hora, idusuario) VALUES ('$texto', '$datahora', '$idusuario');";

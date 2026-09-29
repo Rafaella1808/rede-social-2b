@@ -17,7 +17,8 @@
 
         $nome = $linha['nome'];
         $email = $linha['email'];
-        $foto = $linha['foto'];
+        $idusuario = $linha['idusuario'];
+        //$foto = $linha['foto']; 
 
         
         session_start();
