@@ -10,7 +10,6 @@
 <a href="form_postagem.php">Enviar Postagem</a><br>
 <a href="form_usuario.php">Cadastrar Usuario</a><br>
 
-
     <?php
         if (isset($_POST['erro'])) {
             $email = '';
